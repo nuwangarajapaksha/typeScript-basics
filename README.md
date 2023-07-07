@@ -1,2 +1,2 @@
 # typeScript-basics
-The Project I have developed for learning TypeScript.
+The Project I have developed for learning TypeScript basics.
